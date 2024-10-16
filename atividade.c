@@ -1,3 +1,10 @@
+/* Aluno1: Arthur Mendes de Azevedo Santos - Número de matrícula: 8162299
+Realizado individual.
+Exercício-Programa 1 — Caixa Eletrônico
+Programação Avançada - 2024 - Professor: Bruno Perillo
+Compilador: ... (OnlineGDB) */
+
+
 #include <stdio.h>
 
 int main() {
